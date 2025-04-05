@@ -1,4 +1,4 @@
-# 🐞 Bug Detection and Fixing - The HAWKS
+# 🐞 Bug Detection and Fixing - THE HAWKS
 
 **Intel® Unnati Industrial Training Project**  
 **Institution:** Karunya Institute of Technology and Sciences
